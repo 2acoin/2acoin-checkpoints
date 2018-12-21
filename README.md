@@ -96,8 +96,8 @@ operable program or batch file.
 - If you type `ls`, you should see the 2ACoind program, if you are in the correct folder:
 
 ```
-[2acoin-v1.1.0]λ ls
-miner  poolwallet  simplewallet  2ACoind  walletd
+[2acoin-v1.1.0]λ ls  
+2ACoind  2acoin-service  miner  zedwallet
 ```
 
 #### IO error
