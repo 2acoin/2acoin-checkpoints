@@ -17,17 +17,19 @@
 - First, open a command prompt in the same directory as 2ACoind.
 - This can easily be done by moving to the 2ACoind directory in Windows Explorer, then typing `cmd` in the search bar and hitting enter:
 
-![Opening cmd](https://i.imgur.com/QoNwYtB.png)
+![Opening cmd](https://i.imgur.com/JQ4N8HF.png)  
+
 - Finally, type `2ACoind.exe --load-checkpoints checkpoints.csv` in the command prompt.
 
 #### Linux, Apple
 
 - First, open a command prompt in the same directory as 2ACoind.
-- You can use the `cd` command to change to this directory. For example, `cd Downloads/2acoin-v1.1.0`
+- You can use the `cd` command to change to this directory. For example, `cd Downloads/2acoin-vx.x.x`
 - Alternatively, your file manager may provide the ability to open a terminal in your current directory. Navigate to the folder with 2ACoind in, and try right clicking, to see if you can open a terminal there:
 
-![Opening terminal](https://i.imgur.com/Rd5TmQc.png)
+![Opening terminal](https://i.imgur.com/VJWWgL2.png)
 
+- Open your terminal program 
 - Finally, type `./2ACoind --load-checkpoints checkpoints.csv` in the terminal.
 
 ### Expected Output
@@ -35,7 +37,7 @@
 If you did the steps correctly, you should see something like this output.
 
 ```
-2018-Sept-13 11:58:39.654478 INFO    Welcome to 2ACoin v1.1.0.14 ()
+2018-Sept-13 11:58:39.654478 INFO    Welcome to 2ACoin vx.x.x.x ()
 2018-Sept-13 11:58:39.654914 INFO    Module folder: 2ACoind
 2018-Sept-13 11:58:39.655249 INFO    Loading Checkpoints for faster initial sync...
 2018-Sept-13 11:58:40.854979 INFO    Loaded 35432 checkpoints from checkpoints.csv
