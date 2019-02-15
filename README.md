@@ -7,7 +7,7 @@
 
 - Right click [this link](https://github.com/2acoin/2acoin-checkpoints/raw/master/checkpoints.csv) and choose `Save link as...` to download the latest checkpoints.csv.
 - Place checkpoints.csv in the same folder as your 2ACoind daemon
-- You can get 2ACoind from here if you don't have it already: https://latest.2acoind.org
+- You can get 2ACoind from here if you don't have it already: https://latest.2acoin.org
 - Make sure you shut down any GUI wallets, or any other instances of 2ACoind.
 
 ### Usage
