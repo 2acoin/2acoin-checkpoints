@@ -112,4 +112,4 @@ operable program or batch file.
 
 - If you see output like the above, something else has got the database open already.
 - Make sure you have closed down any other 2ACoind's, GUI wallets, and walletd.
-- Use a task manager to help you find any which might be running in the background, then try again.
+- Use a task manager to help you find any which might be running in the background, then try again!
