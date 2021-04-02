@@ -5,7 +5,8 @@
 
 ### Setup
 
-- Right click [this link](https://github.com/2acoin/2acoin-checkpoints/raw/master/checkpoints.csv) and choose `Save link as...` to download the latest checkpoints.csv.
+- Go to the latest release of 2ACoin-Checkpoints [https://github.com/2acoin/2acoin-checkpoints/releases/latest](https://github.com/2acoin/2acoin-checkpoints/releases/latest)
+- Click the **checkpoints.csv** attached to the release and perform a `Save As...` to download the latest checkpoints.csv.
 - Place checkpoints.csv in the same folder as your 2ACoind daemon
 - You can get 2ACoind from here if you don't have it already: https://latest.2acoin.org
 - Make sure you shut down any GUI wallets, or any other instances of 2ACoind.
@@ -58,18 +59,15 @@ If you did the steps correctly, you should see something like this output.
 ```
 
 - If you see output like the above, the file you are opening is either not a .csv file, or hasn't been downloaded correctly.
-- Ensure you downloaded the file by right clicking, and choosing `Save link as...`.
-- If you incorrectly chose the wrong file, you can accidentally  download a html page instead.
-- When you open up the file, it should have lots of lines like this:
+- Ensure you downloaded the file from the most current release by clicking the file attached to the release, and choosing `Save As...`.
+- If you incorrectly chose the wrong file, you can accidentally download a html page instead.
+- When you open up the file in a text editor, it should have lots of lines like this:
 
 ```
 0,7fb97df81221dd1366051b2d0bc7f49c66c22ac4431d879c895b06d66ef66f4c
 1,8c9738f961a278486f27ce214d1e4d67e08f7400c8b38fe00cdd571a8d302c7d
 2,2ef060801dd27327533580cfa538849f9e1968d13418f2dd2535774a8c494bf4
 ```
-
-- If you absolutely can't get it working, you can make a new text file, copy all the content from here into it: https://raw.githubusercontent.com/2acoin/2acoin-checkpoints/master/checkpoints.csv
-- Then save as checkpoints.csv (Select filetype: all files in windows)
 
 #### Failed to load checkpoints
 
