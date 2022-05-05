@@ -6,8 +6,8 @@
 ### Setup
 
 - Go to the latest release of 2ACoin-Checkpoints [https://github.com/2acoin/2acoin-checkpoints/releases/latest](https://github.com/2acoin/2acoin-checkpoints/releases/latest)
-- Click the **checkpoints.csv** attached to the release and perform a `Save As...` to download the latest checkpoints.csv.
-- Place checkpoints.csv in the same folder as your 2ACoind daemon
+- Click the **checkpoints.zip** attached to the release and perform a `Save As...` to download the latest checkpoints.zip.
+- Extract the zip file and place checkpoints.csv in the same folder as your 2ACoind daemon
 - You can get 2ACoind from here if you don't have it already: https://latest.2acoin.org
 - Make sure you shut down any GUI wallets, or any other instances of 2ACoind.
 
