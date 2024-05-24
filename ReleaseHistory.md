@@ -1,6 +1,7 @@
 # 2ACoin-Checkpoints Release History
 
 ### Checkpoint Release History
+- 2024-05-24 - checkpoints.csv as of Block **2,012,202**
 - 2024-04-25 - checkpoints.csv as of Block **1,984,400**
 - 2024-04-09 - checkpoints.csv as of Block **1,969,650**
 - 2024-03-14 - checkpoints.csv as of Block **1,944,944**
